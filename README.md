@@ -1,2 +1,2 @@
-# JuliaPrograms
-This Repository is for Julia Programming
+# Python Numpy Arrays
+This Repository is for Python Programming
