@@ -1,2 +1,2 @@
-# Python Numpy Arrays
-This Repository is for Python Programming
+# Tensors
+This Repository is for Tensor Programs
